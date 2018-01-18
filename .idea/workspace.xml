@@ -7,33 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4241418d-1aaa-479f-9172-f81d489825b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index_old.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/beauty_ssm.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/cache/RedisCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/cache/RedisCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/dao/GoodsDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/dao/GoodsDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/dao/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/entity/Goods.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/entity/Goods.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/entity/Order.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/entity/Order.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/entity/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/entity/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/quartz/BizQuartz.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/quartz/BizQuartz.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/GoodsService.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/GoodsService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/impl/GoodsServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/impl/GoodsServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/service/impl/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/web/GoodsController.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/web/GoodsController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/web/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/yingjun/ssm/web/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mapper/GoodsDao.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsDao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/redis.properties" afterPath="$PROJECT_DIR$/src/main/resources/redis.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/goodslist.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/goodslist.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userlist.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userlist.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resource/script/handler.js" afterPath="$PROJECT_DIR$/src/main/webapp/resource/script/handler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/debug.log" afterPath="$PROJECT_DIR$/logs/debug.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nohup.log" afterPath="$PROJECT_DIR$/nohup.log" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,9 +180,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="25" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="845" />
+    <option name="y" value="87" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -572,15 +547,15 @@
       <workItem from="1513912572609" duration="591000" />
       <workItem from="1515747370836" duration="3049000" />
       <workItem from="1516247393550" duration="5675000" />
-      <workItem from="1516268437519" duration="130000" />
+      <workItem from="1516268437519" duration="328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192757000" />
+    <option name="totallyTimeSpent" value="192955000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="845" y="87" width="1440" height="797" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27977043" sideWeight="0.5114391" order="7" side_tool="true" content_ui="tabs" />
@@ -891,7 +866,7 @@
         <state relative-caret-position="113">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
