@@ -1954,3 +1954,8 @@
 2018-01-18 18:50:00,013 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
 2018-01-18 18:55:00,010 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
 2018-01-18 19:00:00,008 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
+2018-01-18 19:05:00,005 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
+2018-01-18 19:10:00,007 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
+2018-01-18 19:15:00,008 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
+2018-01-18 19:20:00,009 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
+2018-01-18 19:25:00,005 INFO[com.yingjun.ssm.quartz.BizQuartz:56] - @Scheduled-------cacheClear()
